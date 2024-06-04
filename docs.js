@@ -3,3 +3,4 @@ const doc3 = 1244;
 const doc4 = "hey!";
 const newFeatures = console.log("i add a new features");
 console.log("please dont forget the git remote");
+const add = "i added this to make sure on how i can upload this to the remote"
